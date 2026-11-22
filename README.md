@@ -1,4 +1,8 @@
-![3D歌词演示](demo.gif)
+
+
+https://github.com/user-attachments/assets/a7055ea3-5e32-4f75-aad4-3337f2025a09
+
+
 # LX‑Music 2.12.2‑3D 歌词增强版
 > ⚠️ **本版本为第三方修改定制版，非官方原版**，仅供个人学习交流使用。
 
